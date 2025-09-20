@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayman MOSSAD
-- Flutter Mobile developer
+-  Mobile developer
 - 👀 I’m interested in CODING 
 - 📫 How to reach me https://www.linkedin.com/in/ayman-mossad/
 
