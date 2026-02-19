@@ -19,8 +19,9 @@ I approach development with a system-design mindset, prioritizing clean architec
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-mossad08)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aymanmossad08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=next.js&logoColor=white)](https://ayman-mossad.base44.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-mossad08)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanmossad08@gmail.com)
 
 ---
 
@@ -47,6 +48,7 @@ I approach development with a system-design mindset, prioritizing clean architec
 
 ---
 
+### 🔧 Backend & Tools
 
 **Backend**
 
@@ -58,6 +60,13 @@ I approach development with a system-design mindset, prioritizing clean architec
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman24h&show_icons=true&theme=shadow_red&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman24h&layout=compact&theme=shadow_red&hide_border=true)
 
 ---
 
@@ -69,5 +78,3 @@ I approach development with a system-design mindset, prioritizing clean architec
 - Performance optimization  
 
 ---
-
-
