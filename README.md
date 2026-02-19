@@ -27,13 +27,17 @@ I approach development with a system-design mindset, prioritizing clean architec
 ## 💻 Core Stack
 
 ### 📱 Mobile Development
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+---
+
 ### 🏗 Architecture & Engineering
+
 - Clean Architecture  
 - SOLID Principles  
 - MVVM  
@@ -41,19 +45,29 @@ I approach development with a system-design mindset, prioritizing clean architec
 - Design Patterns  
 - Layered & Scalable Project Structures  
 
-### 🔧 Backend & Tools
+---
+
+
+**Backend**
+
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ayman24h&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman24h&theme=shadow_red&hide_border=true&layout=compact)
 
 ---
+
+## 🚀 Current Focus
+
+- Building scalable mobile systems  
+- Writing clean, testable code  
+- Improving architecture decisions  
+- Performance optimization  
+
+---
+
 
