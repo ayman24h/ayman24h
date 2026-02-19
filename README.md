@@ -2,78 +2,58 @@
 <h3 align="center">Mobile Engineer | Android & Flutter</h3>
 
 <p align="center">
-Computer Science Graduate focused on building scalable, maintainable mobile applications.
+Computer Science Graduate focused on building scalable, maintainable, and well-architected mobile applications.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
 I am a Mobile Engineer with a strong academic background in Computer Science and a deep interest in software architecture and system design.
 
-My focus is not only on building features, but on structuring applications correctly from the ground up — ensuring scalability, performance, and maintainability.
+My focus is not only on building features, but on structuring applications correctly from the ground up — ensuring scalability, performance, and long-term maintainability.
+
+I approach development with a system-design mindset, prioritizing clean architecture, SOLID principles, and performance-driven implementations.
 
 ---
 
-## 🧠 Engineering Mindset
+## 🌐 Connect With Me
 
-- Architecture before features  
-- Clean code is mandatory  
-- SOLID principles applied in practice  
-- Maintainability over shortcuts  
-- Performance is part of user experience  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-mossad08)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aymanmossad08@gmail.com)
 
 ---
 
-## 📱 Mobile Development
+## 💻 Core Stack
 
-### Android (Native)
-- Java  
-- Kotlin  
-- XML  
-- Jetpack Compose  
-- MVVM Architecture  
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Flutter
-- Dart  
-- Bloc & Cubit  
-- Advanced State Management  
-- Responsive UI  
-- Production-ready project structure  
-
----
-
-## 🏗 Architecture & Design
-
+### 🏗 Architecture & Engineering
 - Clean Architecture  
 - SOLID Principles  
-- Design Patterns  
+- MVVM  
 - Dependency Injection  
-- Layered Architecture  
-- Separation of Concerns  
+- Design Patterns  
+- Layered & Scalable Project Structures  
+
+### 🔧 Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🔧 Additional Skills
+## 📊 GitHub Stats
 
-- REST API Integration  
-- Firebase Services  
-- Authentication & Authorization  
-- Git & Version Control  
-- Code Refactoring & Optimization  
+![](https://github-readme-stats.vercel.app/api?username=ayman24h&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman24h&theme=shadow_red&hide_border=true&layout=compact)
 
 ---
-
-## 🚀 Current Focus
-
-- Building structured, scalable mobile systems  
-- Improving performance and code quality  
-- Writing clean, testable, maintainable code  
-
----
-
-## 📫 Connect With Me
-
-- Email: aymanmossad08@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ayman-mossad08/  
 
