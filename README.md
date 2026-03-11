@@ -55,12 +55,7 @@ I approach development with a system-design mindset, prioritizing clean architec
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge)
 
-**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
